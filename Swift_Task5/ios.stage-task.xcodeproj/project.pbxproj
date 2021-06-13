@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		533A03B0267664C40020EA7C /* StockMaximize.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 821822B726722EE800F55DC7 /* StockMaximize.pdf */; };
 		821822B326722EDF00F55DC7 /* StockMaximize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 821822B026722EDF00F55DC7 /* StockMaximize.swift */; };
 		821822B526722EDF00F55DC7 /* MessageDecryptorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 821822B226722EDF00F55DC7 /* MessageDecryptorTests.swift */; };
 		821822B826722EE800F55DC7 /* StockMaximize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 821822B626722EE800F55DC7 /* StockMaximize.swift */; };
@@ -251,6 +252,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				533A03B0267664C40020EA7C /* StockMaximize.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
